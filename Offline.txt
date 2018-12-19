@@ -1,0 +1,5 @@
+phoneme.txt
+Ulexword.txt
+Ulexpho.txt
+Sentences.txt
+Output2.csv
